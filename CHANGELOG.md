@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.28.1 (2024-10-04)
+
+Full Changelog: [sdk-v0.28.0...sdk-v0.28.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.28.0...sdk-v0.28.1)
+
+### Chores
+
+* **internal:** move LineDecoder to a separate file ([#541](https://github.com/anthropics/anthropic-sdk-typescript/issues/541)) ([fd42469](https://github.com/anthropics/anthropic-sdk-typescript/commit/fd4246928d11347147955ca19efcd4c5b0accb10))
+
 ## 0.28.0 (2024-10-04)
 
 Full Changelog: [sdk-v0.27.3...sdk-v0.28.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.27.3...sdk-v0.28.0)
